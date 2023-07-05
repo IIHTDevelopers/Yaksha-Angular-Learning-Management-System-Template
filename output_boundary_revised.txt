@@ -1,2 +1,0 @@
-usercomponentBoundaryShouldInvalidateTheFormWhenTitleLengthIsGreaterThan100=false
-usercomponentBoundaryShouldInvalidateTheFormWhenTitleLengthIsLessThan3=false
